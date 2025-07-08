@@ -1,1 +1,3 @@
-# Netflix-Data-Analysis-Using-PostgreSQL
+# Netflix-Data-Analysis Movies and TVShows -Using-PostgreSQL
+
+![NetFlix Logo]()
